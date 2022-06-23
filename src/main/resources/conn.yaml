@@ -1,0 +1,5 @@
+Servers:
+  - name: Serv1
+    url: /test/test2
+    user: user1
+    pass: securepass
